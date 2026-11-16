@@ -2,7 +2,7 @@
 
 Documentation site for three projects from the How to Make (Almost) Anything course at IFT, by Maxime Vial, Paul Simonet and Alexandre Le Port.
 
-Live site: https://htmaa-projects.vercel.app
+Live site: https://htmaa-projects-refonte.vercel.app
 
 ## Run it locally
 
